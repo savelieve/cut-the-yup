@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cut the Yup"
+  short_description: "Concise, professional replies in high-level bullets"
+  default_prompt: "Use $cut-the-yup for concise, professional replies in high-level bullets."
