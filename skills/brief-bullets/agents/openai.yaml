@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brief Bullets"
+  short_description: "Concise, professional replies in high-level bullets"
+  default_prompt: "Use $brief-bullets for concise, professional replies in high-level bullets."
