@@ -16,16 +16,10 @@ router, or service dependencies. Token savings are an intent, not a measured cla
 
 ## Use in Codex
 
-Install from this private repository while authenticated to GitHub:
+Install the skill:
 
 ```sh
 npx skills add savelieve/cut-the-yup --skill cut-the-yup -g
-```
-
-While the initial implementation is under review, use the task branch:
-
-```sh
-npx skills add https://github.com/savelieve/cut-the-yup/tree/feature/professional-bullet-replies --skill cut-the-yup -g
 ```
 
 Activate with `$cut-the-yup`. Say "normal replies" to stop using the style in
