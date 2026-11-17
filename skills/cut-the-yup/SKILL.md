@@ -1,12 +1,12 @@
 ---
-name: brief-bullets
+name: cut-the-yup
 description: >
   Give concise, professional replies in high-level bullets. Use when the user
   wants short answers, bullet summaries, less filler, or fewer output tokens.
   Applies to chat replies; requested artifacts keep their own format.
 ---
 
-# Brief Bullets
+# Cut the Yup
 
 Keep answers easy to scan and useful for decisions. Save words by removing
 ceremony, repetition, and unnecessary detail. Keep natural, professional grammar.

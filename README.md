@@ -1,4 +1,4 @@
-# Brief Bullets
+# Cut the Yup
 
 A personal agent skill for concise, professional replies in high-level bullets.
 
@@ -19,16 +19,16 @@ router, or service dependencies. Token savings are an intent, not a measured cla
 Install from this private repository while authenticated to GitHub:
 
 ```sh
-npx skills add savelieve/brief-bullets --skill brief-bullets -g
+npx skills add savelieve/cut-the-yup --skill cut-the-yup -g
 ```
 
 While the initial implementation is under review, use the task branch:
 
 ```sh
-npx skills add https://github.com/savelieve/brief-bullets/tree/feature/professional-bullet-replies --skill brief-bullets -g
+npx skills add https://github.com/savelieve/cut-the-yup/tree/feature/professional-bullet-replies --skill cut-the-yup -g
 ```
 
-Activate with `$brief-bullets`. Say "normal replies" to stop using the style in
+Activate with `$cut-the-yup`. Say "normal replies" to stop using the style in
 the current chat. Explicit requests for another format or more detail win.
 Automatic selection depends on the host; installation does not enforce a global
 style. A new chat may be needed for discovery.
